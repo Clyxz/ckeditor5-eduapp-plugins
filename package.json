@@ -1,6 +1,6 @@
 {
   "name": "ckeditor5-eduapp-plugins",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Plugins for Eduapp CKEditor5",
   "keywords": [
     "ckeditor5",
@@ -16,13 +16,5 @@
     "src"
   ],
   "author": "clyxz",
-  "license": "MIT",
-  "dependencies": {
-    "@ckeditor/ckeditor5-core": "^17.0.0",
-    "@ckeditor/ckeditor5-engine": "^17.0.0"
-  },
-  "devDependencies": {
-    "@ckeditor/ckeditor5-editor-classic": "^10.0.0",
-    "@ckeditor/ckeditor5-utils": "^10.0.0"
-  }
+  "license": "MIT"
 }
