@@ -1,0 +1,27 @@
+{
+  "name": "ckeditor5-eduapp-plugins",
+  "version": "1.0.0",
+  "description": "Plugins for Eduapp CKEditor5",
+  "keywords": [
+    "ckeditor5",
+    "latex",
+    "delimiter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Clyxz/ckeditor5-eduapp-plugins.git"
+  },
+  "files": [
+    "src"
+  ],
+  "author": "Martin Hanusch",
+  "license": "ISC",
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^10.0.0",
+    "@ckeditor/ckeditor5-engine": "^10.0.0"
+  },
+  "devDependencies": {
+    "@ckeditor/ckeditor5-editor-classic": "^10.0.0",
+    "@ckeditor/ckeditor5-utils": "^10.0.0"
+  }
+}
